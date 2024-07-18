@@ -8,6 +8,7 @@
 
 # User-specific files
 .Ruserdata
+Data/sr_wq_rs_join.csv
 
 # Example code in package build process
 *-Ex.R
